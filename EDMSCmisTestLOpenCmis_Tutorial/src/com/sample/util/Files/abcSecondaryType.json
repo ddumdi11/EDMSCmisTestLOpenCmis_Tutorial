@@ -37,7 +37,7 @@
             "localName": "abc:help",
             "openChoice": false,
             "orderable": true,
-            "propertyType": "integer",
+            "propertyType": "string",
             "queryName": "abc:help",
             "queryable": true,
             "required": true,
